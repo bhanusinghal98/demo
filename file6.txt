@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 this branch pull from docker hub and now file is being creating at client side
+=======
+this is from b2 using to use squash
+>>>>>>> b2
 =======
 this is from b2 using to use squash
 >>>>>>> b2
